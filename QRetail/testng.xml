@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="QAutomatiom">
+    <test name="SmokeTest">
+        <classes>
+            <class name="com.quantumretail.qi.testcases.ForecastTests">
+                <methods>
+                   <include name="TC_Forecast_001"/>
+                    <include name="TC_Forecast_002"/>
+                    <include name="TC_Forecast_003"/>
+                    <include name="TC_Forecast_004"/>
+                </methods>
+            </class>-->
+            <class name="com.quantumretail.qi.testcases.ForecastTests"></class>
+        </classes>
+    </test>
+</suite>
